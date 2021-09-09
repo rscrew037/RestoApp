@@ -1,0 +1,52 @@
+{
+  "login": [
+    {
+      "name": "Raja",
+      "password": "abc@123"
+    }
+  ],
+  "restuarant": [
+    {
+      "name": "Pizza Hut 2",
+      "email": "pizzahut@test.com",
+      "address": "Noida",
+      "rating": "4.5",
+      "id": 1
+    },
+    {
+      "name": "McDonald",
+      "email": "mcdonalad@test.com",
+      "address": "Delhi",
+      "rating": "4.8",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "BurgerKing",
+      "address": "Goa",
+      "rating": "4.5",
+      "email": "burgerking@test.com"
+    },
+    {
+      "id": 4,
+      "name": "CKF",
+      "address": "Agra",
+      "rating": "4.9",
+      "email": "haldiram00@test.com"
+    },
+    {
+      "id": 5,
+      "name": "HaldiRam",
+      "address": "Lucknow",
+      "rating": "4.5",
+      "email": "haldiram@test.com"
+    },
+    {
+      "name": "AmanCafe",
+      "email": "aman@gmail.com",
+      "address": "Basti",
+      "rating": "5.0",
+      "id": 6
+    }
+  ]
+}
